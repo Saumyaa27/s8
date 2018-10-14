@@ -1,9 +1,9 @@
-#include <iostream>
+i#include <iostream>
 using namespace std;
 int main()
 {
 int a,b,s;
-cout <<"enter two ntegers:";
+cout <<"enter two integers:";
 cin>> a>>b;
 s=a+b;
 cout<< a<<"+"<<b<<"+"<<s;
